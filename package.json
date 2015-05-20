@@ -15,5 +15,9 @@
   },
   "dependencies": {
     "file-io-server": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",	
+    "url": "git://github.com/Jam3/png-io.git"
   }
 }
