@@ -1,0 +1,19 @@
+{
+  "name": "png-io",
+  "version": "1.0.0",
+  "description": "Saves a .png file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "David Tran <davidt@jam3.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.0.0",
+    "shelljs": "^0.5.0",
+    "three": "^0.71.0"
+  },
+  "dependencies": {
+    "file-io-server": "^1.1.0"
+  }
+}
