@@ -1,7 +1,7 @@
 {
   "name": "png-io",
   "version": "1.0.0",
-  "description": "Saves a .png file",
+  "description": "Exports canvas image to .PNG",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
