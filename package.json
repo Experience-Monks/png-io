@@ -1,6 +1,6 @@
 {
   "name": "png-io",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exports canvas image to .PNG",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "file-io-server": "^1.1.0"
   },
   "repository": {
-    "type": "git",	
+    "type": "git",
     "url": "git://github.com/Jam3/png-io.git"
   }
 }
