@@ -1,9 +1,9 @@
 {
   "name": "png-io",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Exports canvas image to .PNG",
   "main": "index.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "test": "node test.js"
   },
@@ -12,7 +12,6 @@
     "email": "davidt@jam3.com",
     "url": "https://github.com/eternallite"
   },
-  "license": "ISC",
   "devDependencies": {
     "chalk": "^1.0.0",
     "shelljs": "^0.5.0",
