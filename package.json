@@ -3,10 +3,15 @@
   "version": "1.0.2",
   "description": "Exports canvas image to .PNG",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "David Tran <davidt@jam3.com>",
+  "author": {
+    "name": "David Tran",
+    "email": "davidt@jam3.com",
+    "url": "https://github.com/eternallite"
+  },
   "license": "ISC",
   "devDependencies": {
     "chalk": "^1.0.0",
@@ -19,5 +24,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/Jam3/png-io.git"
+  },
+  "homepage": "https://github.com/Jam3/png-io",
+  "bugs": {
+    "url": "https://github.com/Jam3/png-io/issues"
   }
 }
